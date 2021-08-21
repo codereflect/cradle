@@ -1,9 +1,9 @@
 {
-  "title": "Your Blog Name",
+  "title": "Code Reflect - Custom software development firm",
   "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Code Reflect develops apps and custom software for iOS, Android, IoT, and Web. ",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Code Reflect develops apps and custom software for iOS, Android, IoT, and Web. ",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://myurl.com/"
