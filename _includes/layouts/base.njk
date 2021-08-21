@@ -23,31 +23,102 @@
     <link rel="preconnect" href="https://fonts.gstatic.com"> 
 
     <!-- CSS -->
-    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
-    <link href="../assets/plugins/bootstrap/bootstrap.min.css" rel="stylesheet">
-    <link href="../assets/plugins/owl-carousel/owl.carousel.min.css" rel="stylesheet">
-    <link href="../assets/plugins/owl-carousel/owl.theme.default.min.css" rel="stylesheet">
-    <link href="../assets/plugins/magnific-popup/magnific-popup.min.css" rel="stylesheet">
-    <link href="../assets/plugins/sal/sal.min.css" rel="stylesheet">
-
+    <link href="{{ '/assets/vendor/bootstrap/bootstrap.min.css' | url}}" rel="stylesheet">
     <link href="{{ '/css/theme.css' | url }}" rel="stylesheet">
     <link href="{{ '/css/cr.css' | url }}" rel="stylesheet">
     <!-- Fonts/Icons -->
-    <link href="../assets/plugins/font-awesome/css/all.css" rel="stylesheet">
-    <link href="../assets/plugins/themify/themify-icons.min.css" rel="stylesheet">
-    <link href="../assets/plugins/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+    <link href="{{ '/assets/plugins/font-awesome/css/all.css' | url}}" rel="stylesheet">
+    <link href="{{ '/assets/plugins/themify/themify-icons.min.css' | url}}" rel="stylesheet">
+    <link href="{{ '/assets/plugins/simple-line-icons/css/simple-line-icons.css' | url}}" rel="stylesheet">
   </head>
-  <body>
-    <header>
-      
-    </header>
+  <body class="bg-dark " data-preloader="1">
+    <!-- Header -->
+    <div class="header bg-dark" >
+      <div class="container" >
+        <!-- Logo -->
+        <div class="header-logo">
+          <h3><a href="/"><img class="logo-default" src="{{ '/img/cr/logotel2.png' | url }}" alt="Code Reflect"></a></h3>
+        </div>
+        <!-- Fullscreen Menu Toggle -->
+        <button class="fm-toggle">
+          <span class="lines"></span> <!-- lines black-->
+        </button>
+      </div><!-- end container -->
+    </div>
+    <!-- end Header -->
 
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-      {{ content | safe }}
-    </main>
+    <!-- FS menu -->
+    <div class="fullscreen-menu bg-dark">
+      <!-- Add your background class here -->
+      <div class="fm-wrapper text-center">
+        <div class="position-top">
+          <h3>Code Reflect</h3>
+        </div>
+        <div class="position-middle">
+          <ul class="list-unstyled">
+            <li>
+              <h2><a href="#">Home</a></h2>
+            </li>
+            <li>
+              <h2><a href="#">Work</a></h2>
+            </li>
+            <li>
+              <h2><a href="#">Services</a></h2>
+            </li>
+          </ul>
+        </div>
+        <div class="position-bottom">
+          <ul class="list-inline-sm icon-sm">
+            <li><a class="button-circle button-circle-sm button-circle-outline-white" href="#"><i
+                  class="fab fa-facebook-f"></i></a></li>
+            <li><a class="button-circle button-circle-sm button-circle-outline-white" href="#"><i
+                  class="fab fa-twitter"></i></a></li>
+            <li><a class="button-circle button-circle-sm button-circle-outline-white" href="#"><i
+                  class="fab fa-pinterest"></i></a></li>
+            <li><a class="button-circle button-circle-sm button-circle-outline-white" href="#"><i
+                  class="fab fa-instagram"></i></a></li>
+          </ul>
+          <p class="margin-top-20">© 2020 Code Reflect, All Rights Reserved.</p>
+        </div>
+        <button class="fm-close">
+          <span></span>
+        </button>
+      </div>
+    </div>
+    <!-- end FS menu -->
 
-    <footer></footer>
+    {{ content | safe }}
+
+    <footer>
+      <div class="section-sm bg-dark padding-top-0">
+        <div class="container">
+          <div class="row">
+            <div class="col-12 col-lg-12">
+              <!-- <hr class="margin-bottom-30"> -->
+              <h3><a href="/"><img class="logo-default" style="height: 36px" src="{{ '/img/cr/logotel2.png' | url }}"
+                    alt="Code Reflect"></a></h3>
+              <ul class="list-unstyled">
+                <li>Vojislava Ilica, Begrade, Serbia</li>
+                <li>sales@codereflect.io</li>
+                <li>+(123) 456 789 01</li>
+              </ul>
+            </div>
+  
+          </div>
+        </div><!-- end container -->
+      </div>
+    </footer>
+  
+    <!-- Scroll to top button -->
+    <div class="scrolltotop">
+      <a class="button-circle button-circle-sm button-circle-dark" href="#"><i class="ti-arrow-up"></i></a>
+    </div>
 
     <!-- Current page: {{ page.url | url }} -->
+    <script src="{{ '/assets/vendor/jquery.min.js' | url}}"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver"></script>
+    <script src="{{ '/assets/vendor/plugins.js' | url}}" defer></script>
+    <script src="{{ '/assets/js/functions.js' | url}}" defer></script>
   </body>
 </html>

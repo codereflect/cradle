@@ -39,6 +39,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addWatchTarget("./assets/scss/");
   eleventyConfig.addPassthroughCopy("css");
 
+  eleventyConfig.addPassthroughCopy("assets/vendor");
+  eleventyConfig.addPassthroughCopy("assets/js");
+
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
     html: true,
