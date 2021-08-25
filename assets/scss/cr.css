@@ -866,3 +866,21 @@ a.button:hover {
 .pb-30 {
   padding-bottom: 30px!important;
 }
+
+.pt-30 {
+  padding-top: 30px!important;
+}
+
+.case-study {
+  background-color: rgb(89, 56, 171); 
+  box-shadow: rgba(89, 56, 171, 0.6) 0px 12px 90px; 
+  border-radius: 20px;
+  padding: 3em;
+}
+
+.case-study-white {
+  background-color: rgb(255, 255, 255); 
+  box-shadow: rgba(1255, 255, 255, 0.6) 0px 12px 90px; 
+  border-radius: 20px;
+  padding: 3em;
+}
