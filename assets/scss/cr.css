@@ -884,3 +884,11 @@ a.button:hover {
   border-radius: 20px;
   padding: 3em;
 }
+
+.hwwork ul.list-icon li {
+  padding-left: 24px !important;
+}
+
+.hwwork ul.list-icon.list-icon-caret li:before {
+  content: "-";
+}
