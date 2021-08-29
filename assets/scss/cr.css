@@ -597,7 +597,7 @@ h1 span
 
 @media only screen and (min-width:320px) {
   .header .header-logo img {
-    height: 60px;
+    height: 40px;
     max-height: 90px;
   }
   .header {
@@ -607,7 +607,7 @@ h1 span
 
 @media only screen and (min-width : 992px) {
   .header .header-logo img {
-    height: 70px;
+    height: 50px;
     max-height: 90px;
   }
   .header {
