@@ -659,6 +659,10 @@ h1 span
   font-weight: 500;
 }
 
+.client-story .title {
+  font-weight: 700;
+}
+
 .client-story h4 {
   line-height: 1.3;
 }
