@@ -908,3 +908,7 @@ a.button:hover {
 .bg-none {
   background: none !important;
 }
+
+div[class*=" bg-dark"] h5 {
+  color: rgb(141, 159, 167) !important;
+}
