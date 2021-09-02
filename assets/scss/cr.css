@@ -4,13 +4,13 @@
 } 
 h1, h2, h3, h4, h5, h6  {
   
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif; 
   color: rgb(217, 227, 234) !important;
 }
 
 body {
   font-family: 'Space Grotesk', sans-serif;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 p, h5 {
@@ -877,14 +877,21 @@ a.button:hover {
 
 .case-study {
   background-color: rgb(89, 56, 171); 
-  box-shadow: rgba(89, 56, 171, 0.6) 0px 12px 90px; 
+  /* box-shadow: rgba(89, 56, 171, 0.6) 0px 12px 90px;  */
   border-radius: 20px;
   padding: 3em;
 }
 
 .case-study-white {
   background-color: rgb(255, 255, 255); 
-  box-shadow: rgba(1255, 255, 255, 0.6) 0px 12px 90px; 
+  /* box-shadow: rgba(1255, 255, 255, 0.6) 0px 12px 90px;  */
+  border-radius: 20px;
+  padding: 3em;
+}
+
+.case-study-rose {
+  background-color: rgb(209, 177, 255);
+  /* box-shadow: rgba(209, 177, 255, 0.6) 0px 12px 90px; */
   border-radius: 20px;
   padding: 3em;
 }
