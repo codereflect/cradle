@@ -919,3 +919,15 @@ a.button:hover {
 div[class*=" bg-dark"] h5 {
   color: rgb(141, 159, 167) !important;
 }
+
+.text-dark {
+  line-height: 1.52;
+  margin-top: 0px;
+  margin-right: 0px;
+  /* margin-bottom: 20px; */
+  /* max-width: 270px; */
+  color: #000;
+  font-size: 16px !important;
+  line-height: 24px !important;
+  font-weight: 500 !important;
+}
