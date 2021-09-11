@@ -1,0 +1,240 @@
+<svg 
+style="position: absolute; right: 34px; bottom: 10px;"
+width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg" ><path d="M1 1H9M9 1V9M9 1L1 9" stroke="#8C8C8C" stroke-width="2"></path></svg>
+
+
+<div class="section padding-top-0">
+		<div class="container">
+			<div class="row">
+				<div class="col-12 col-md-12">					
+					<div class="break-line"></div>
+					<div class="sect-sm">Our Guarantee</div>
+				</div>
+				<div class="col-12 col-md-8">
+					<h6 class="powering">Constant and effective communication</h6>
+					<p class="text-white font-weight-500 pb-30">
+					</p>
+			
+				</div>
+				<div class="col-12 col-md-8">
+					<h6 class="powering">Meeting deadlines while ensuring a high level of quality</h6>
+					<p class="text-gray font-weight-500 pb-30">
+						On an engagement, we assemble a cross-functional team responsible for entire project. This model is perfect for long-term projects and companies looking to reduce time-to-market by employing battle tested team. Our project managers keep a transparent flow of information with reports about risks, opportunities, and all stages of the software development process. We manage to work accross different time zones, using Slack and Zoom.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+------
+
+		<!-- 
+					
+					
+									<div class="col-12 col-md-6">
+					<a href="/new-product-development">
+						<div class="client-story d-flex flex-row">
+							<img class="p-2" src="{{ '/img/cr//icons/g2.svg' }}" style="height:70px; padding-bottom: 20px;">
+							<div class="p-2">
+								<h4 class="title font-weight-semi-bold ">Build your idea<br/> from screatch</h4>
+								<p class="font-weight-normal font-gray">From ideation through prototyping to delivery & maintenance.</p>
+							</div>
+								<svg style="position: absolute; right: 34px; bottom: 18px;"
+							
+							width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg" ><path d="M1 1H9M9 1V9M9 1L1 9" stroke="#8C8C8C" stroke-width="2"></path></svg>
+						</div>
+					</a>
+				</div>
+				
+				<div class="col-12 col-md-6">
+					<a href="/new-product-development">
+						<div class="client-story">
+							<img class="" src="{{ '/img/cr//icons/g3.svg' }}" style="height:70px; padding-bottom: 20px;">
+							<h4 class="title font-weight-semi-bold">Extend<br/> your team</h4>
+				
+							<p class="font-weight-normal font-gray">
+								Dedicated cross-functional teams, full product lifecycle support.</p>
+							<svg style="position: absolute; right: 34px; bottom: 18px;"
+							
+							width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg" ><path d="M1 1H9M9 1V9M9 1L1 9" stroke="#8C8C8C" stroke-width="2"></path></svg>
+						</div>
+					</a>
+				</div> end -->
+
+				<!-- start
+					
+					
+				<div class="col-12 col-md-6">
+					<a href="/new-product-development">
+						<div class="client-story d-flex flex-row">
+							<img class="p-2" src="{{ '/img/cr//icons/g2.svg' }}" style="height:70px; padding-bottom: 20px;">
+							<div class="p-2">
+								<h4 class="title font-weight-semi-bold ">Build your idea<br/> from screatch</h4>
+								<p class="font-weight-normal font-gray">From ideation through prototyping to delivery & maintenance.</p>
+							</div>
+								<svg style="position: absolute; right: 34px; bottom: 18px;"
+							
+							width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg" ><path d="M1 1H9M9 1V9M9 1L1 9" stroke="#8C8C8C" stroke-width="2"></path></svg>
+						</div>
+					</a>
+				</div>
+					
+					<div class="col-12 col-md-3 hwwork">
+					<img class="" src="{{ '/img/cr//icons/s10.svg' }}" style="height:70px; padding-bottom: 20px;">
+          <h4 class="title ">Product Development</h4>
+          <ul class="list-unstyled pb-30 sm-p">
+            <li>Mobile Apps</li>
+						<li>Web Apps</li>
+            <li>Enterprise Development</li>
+            <li>Infrastructure Architecture</li>		
+            <li>SaaS Development</li>
+            <li></li>						
+          </ul>
+
+        </div> -->
+
+<!-- 
+				<div class="col-12 col-md-3 ">
+					<a href="/new-product-development">
+						<div class="client-story-tr">				
+							<img class="" src="{{ '/img/cr//icons/s10.svg' }}" style="height:70px; padding-bottom: 20px;">
+							<h4 class="title">Product development</h4>
+							
+							 <p class="font-weight-normal font-gray">
+								Supporting your operations with a dedicated cross-functional teams and full product lifecycle support.</p>
+								<p class="font-weight-normal font-gray">
+									From ideation through prototyping to delivery & maintenance.
+								</p>
+								<a class="button-text-1" href="/new-product-development">Build my product</a>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-12 col-md-3">
+					<a href="/extended-team/">
+						<div class="client-story-tr">				
+							<img class="" src="{{ '/img/cr//icons/s8.svg' }}" style="height:70px; padding-bottom: 20px;">
+							<h4 class="title">Extend your team</h4>
+				
+							<p class="font-weight-normal font-gray">
+								Dedicated cross-functional teams, full product lifecycle support.</p>
+							<a class="button-text-1" href="">Help me grow</a>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-12 col-md-3">
+					<a href="/new-product-development">
+						<div class="client-story-tr">				
+							<img class="" src="{{ '/img/cr//icons/s4.svg' }}" style="height:70px; padding-bottom: 20px;">
+							<h4 class="title">Legacy modernization</h4>
+							<p class="font-weight-normal font-gray">
+								Modernize and re-architect your processes and core technology.
+							</p>
+							<a class="button-text-1" href="">Help with technical debt</a>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-12 col-md-4">
+					<a href="/new-product-development">
+						<div class="client-story">
+							<img class="" src="{{ '/img/cr//icons/s4.svg' }}" style="height:100px; padding-bottom: 20px;">
+
+							<h4 class="title">Product development</h4>
+							<p class="font-weight-normal font-gray">
+								From ideation through prototyping to delivery & maintenance.</p>
+							<svg style="position: absolute; right: 34px; bottom: 18px;"
+							
+							width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg" ><path d="M1 1H9M9 1V9M9 1L1 9" stroke="#8C8C8C" stroke-width="2"></path></svg>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-12 col-md-4">
+					<a href="/application-performance-tuning">
+						<div class="client-story">
+							<img class="" src="{{ '/img/cr//icons/s9.svg' }}" style="height:100px; padding-bottom: 20px;">
+
+							<h4 class="title">Performance<br/> optimization</h4>
+							<p class="font-weight-normal font-gray">
+								Isolate and solve performance problems in applications to meet the performance requirements.</p>
+							<svg style="position: absolute; right: 34px; bottom: 18px;"
+							
+							width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg" ><path d="M1 1H9M9 1V9M9 1L1 9" stroke="#8C8C8C" stroke-width="2"></path></svg>
+						</div>
+					</a>
+				</div>
+				
+				<div class="col-12 col-md-4">
+					<a href="/build-hipaa-applications">
+						<div class="client-story">
+
+							<img class="" src="{{ '/img/cr//icons/s2.svg' }}" style="height:100px; padding-bottom: 20px;">
+							<h4 class="title">Healthcare apps<br/>	 and integrations</h4>
+							<p class="font-weight-normal font-gray">
+								Build HIPAA compliant patient facing apps, data analytic products and HL7/CCD/FHIR integration platforms. 
+								</p>
+							<svg style="position: absolute; right: 34px; bottom: 18px;" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg" >
+								<path d="M1 1H9M9 1V9M9 1L1 9" stroke="#8C8C8C" stroke-width="2"></path>
+							</svg>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-12 col-md-4">
+					<a href="/extended-team/">
+						<div class="client-story">
+							<img class="" src="{{ '/img/cr//icons/s8.svg' }}" style="height:100px; padding-bottom: 20px;">
+							<h4 class="title">Scale your<br/> team</h4>
+							<p class="font-weight-normal font-gray">
+								A team of developers, architects and project managers integrates seamlessly with your team, process and workflow.
+							</p>
+							<svg style="position: absolute; right: 34px; bottom: 18px;" width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg" >
+								<path d="M1 1H9M9 1V9M9 1L1 9" stroke="#8C8C8C" stroke-width="2"></path>
+							</svg>
+						</div>
+					</div>
+					</a>
+				</div> -->
+
+====
+
+	<!-- <h4 class="upper-title">explore our</h4>
+					<h2 class="main-title">services</h2> -->
+					<!-- <h6 class="powering">What’s your goal today?</h6> -->
+					<!-- <h6 class="powering">We can work with you at any stage</h6> -->
+					<!-- <p class="text-white font-weight-500 ">Our design process is end-to-end, from initial research all the way to high-fidelity design and development. </p> -->
+
+====
+
+ <li class="">
+              <div class="accordion-title ">
+								<div class="clients-sub">01 Align and understand</div>
+								<h4 class="title">Discovery</h4>
+              </div>
+              <div class="accordion-content p-0" style="">
+                <div class="row">
+                  <div class="col-12 col-md-6 ">
+                    <p class="sm-p pl-24">
+											We setup a few initial meetings with you to discuss your goals, vision, timeline and budget.
+                      Together with your team we explore your business needs so we can provide you with insights, overall cost, and help plan the work.
+                    </p>
+                  </div>
+                  <div class="col-12 col-md-4 hwwork">
+                    <ul class="list-icon list-icon-caret pb-30 sm-p">
+                      <li>Business case evaluation</li>
+                      <li>Roadmap</li>
+                      <li>Architecture blueprint</li>
+                      <li>Compliance with HIPAA, GDPR and other standards</li>
+											<li>TCO estimation</li>	
+                      <li>Risks and opportunities</li>							
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+
+====          

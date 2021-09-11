@@ -206,10 +206,14 @@ div[class^='bg-black'], div[class*=' bg-black'], div[class^='bg-dark'], div[clas
             li {
                 .accordion-title {
                     background: $color-white-01;
+                    border-radius: 8px;
                 }
                 &.active {
                     .accordion-title {
                         background: $color-white;
+                       
+                        background: rgb(10, 10, 10);
+
                         color: $color-primary;
                         &:before, &:after {
                             background: $color-black;
