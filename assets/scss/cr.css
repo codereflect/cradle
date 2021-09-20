@@ -867,6 +867,7 @@ a.button:hover {
 
   .badge-cr {
     background-color: rgba(124, 79, 236, 1);
+    background-color: hsla(0, 0%, 100%, 0.2);
     padding: 7px 11px;
   }
 
@@ -902,14 +903,14 @@ a.button:hover {
 }
 
 .case-study-white {
-  background-color: rgb(255, 255, 255); 
+  background-color: #41BEA6; 
   /* box-shadow: rgba(1255, 255, 255, 0.6) 0px 12px 90px;  */
   border-radius: 20px;
   padding: 3em;
 }
 
 .case-study-rose {
-  background-color: rgb(209, 177, 255);
+  background-color: #E2BDFF;
   /* box-shadow: rgba(209, 177, 255, 0.6) 0px 12px 90px; */
   border-radius: 20px;
   padding: 3em;
