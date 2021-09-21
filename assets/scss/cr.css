@@ -965,3 +965,9 @@ div[class*=" bg-dark"] h5 {
 }
 
 .pl-24 { padding-left: 24px!important;}
+.mb-20 { margin-bottom: 20px!important }
+
+.h2-head {
+  font-size: 32px !important;
+  line-height: 40px !important;
+}

@@ -269,3 +269,11 @@ width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/
         </div>
 
 ======
+
+<h4 class="title"><span class="text-clip gradient-12">Approach -> </span> Lean product development</h4>
+              <h4 class="title text-clip gradient-16"><span class="text-clip gradient-12">No tech debt -> </span> Evolutionary architecture</h4>
+              <h4 class="title text-clip gradient-16"><span class="text-clip gradient-12">Design method -> </span> Twelve-factor design</h4>
+              <h4 class="title text-clip gradient-16"><span class="text-clip gradient-12">Ops culture -> </span>  CI & CD</h4>
+
+======
+
