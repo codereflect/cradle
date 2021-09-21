@@ -238,3 +238,34 @@ width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/
             </li>
 
 ====          
+
+<div class="col-12 col-md-8">	
+          <h4 class="title">Focus on customer-centric outcomes</h4>
+          
+          <p class="sm-p">
+            We understand that building a software products is more than technical excellence; we see it as a process of strategy and domain exploration synchronized together to create valuable customer experiences. Customer experience is how you feel after you've interacted with a company. That's why we focus on careful ideation, before executing and promoting your products to production.
+          </p>
+          <h4 class="title">Compliance baked-in from beginning</h4>
+          
+          <p class="sm-p">
+            We prioritize and implement the appropriate policies and procedures to ensure corporate and client data protection in accordance with GDPR for our European clients at the outset of every cooperation. We also work together to fully understand any other rules and regulations (e.g. HIPAA) that our customers may need to comply with.
+          </p>
+
+          <h4 class="title">Infrastructure as code and continuous delivery</h4>
+          <p class="sm-p">
+            Continuous integration, continuous delivery, and continuous deployment are the three fundamental processes of a DevOps strategy. They work together to help you lower testing expenses, automate some QA and deployment procedures, and provide quicker releases.
+          </p>
+
+          <h4 class="title">QA & infrastructure monitoring</h4>
+          <p class="sm-p">
+            Our DevOps and QA teams can assist you in delivering highly reliable, 24/7 solutions to your end-users while running mission-critical workloads without a hitch.
+          </p>
+
+          <h4 class="title">App store setup & approvals</h4>
+          <p class="sm-p">
+            We prepare your app so that App Store approval process can go as smoothly as possible. This doesn’t guarantee approval on the first submission, but we are making sure to deal with app rejections and resubmissions.
+          </p>
+
+        </div>
+
+======

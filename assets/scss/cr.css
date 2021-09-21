@@ -676,6 +676,9 @@ h1 span
   font-size: 20px;
   line-height: 26px;
   font-weight: 600;
+
+  font-size: 20px;
+font-weight: 800;
 }
 
 .client-story .title, .client-story-tr .title {
@@ -691,6 +694,10 @@ h1 span
   cursor: pointer;
 }
 
+.cr-icon {
+  height: 70px;
+  padding-bottom: 20px;
+}
 
 .scrolldown-wrapper {
 	/* left: 50%; */
@@ -910,10 +917,11 @@ a.button:hover {
 }
 
 .case-study-rose {
-  background-color: #E2BDFF;
+  background-color: rgb(25, 23, 36);
   /* box-shadow: rgba(209, 177, 255, 0.6) 0px 12px 90px; */
   border-radius: 20px;
   padding: 3em;
+  color: rgb(224, 222, 244) !important;
 }
 
 .pl-50 {
