@@ -579,7 +579,7 @@ background-size: 51% 7px;
 }
 
 .font-weight-500 {
-  font-weight: 500 !important;
+  font-weight: 600 !important;
 }
 
 h1 span
@@ -964,10 +964,27 @@ div[class*=" bg-dark"] h5 {
   color: #fff!important;
 }
 
-.pl-24 { padding-left: 24px!important;}
+.pl-24 { padding-left: 24px!important }
 .mb-20 { margin-bottom: 20px!important }
+.mt-140 { margin-top: 140px!important }
+.mt-80 { margin-top: 80px!important }
 
 .h2-head {
   font-size: 32px !important;
   line-height: 40px !important;
+}
+
+.mark-hl {
+  background-image: linear-gradient(transparent calc(100% - 14px),#755cf8 14px);
+background-repeat: no-repeat;
+background-size: 100% 91%;
+display: inline;
+font-weight: inherit;
+-webkit-transition: background-size .2s ease-out;
+transition: background-size .2s ease-out;
+}
+
+.bl-hl {
+  padding-left: 16px;
+  border-left: 6px solid #755cf8;
 }
