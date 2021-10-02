@@ -988,3 +988,11 @@ transition: background-size .2s ease-out;
   padding-left: 16px;
   border-left: 6px solid #755cf8;
 }
+
+.fw800 {
+  font-weight: 800!important;
+}
+
+.fw900 {
+  font-weight: 900!important;
+}
