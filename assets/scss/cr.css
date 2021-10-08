@@ -1,10 +1,8 @@
-/**/ h1, h2, h3, h4, h5, h6 {
-  font-family: 'Cabin', sans-serif;
-  ;
-} 
+
 h1, h2, h3, h4, h5, h6  {
   
   font-family: 'Inter', sans-serif; 
+
   color: rgb(217, 227, 234) !important;
 }
 
@@ -878,32 +876,26 @@ a.button:hover {
     padding: 7px 11px;
   }
 
-.p-white {
-  line-height: 1.52;
-  margin-top: 0px;
-  margin-right: 0px;
-  /* margin-bottom: 20px; */
-  /* max-width: 270px; */
-  color: #fff;
-  font-size: 16px !important;
-  line-height: 24px !important;
-  font-weight: 500!important;
-}
 
-.pb-10 {
-  padding-bottom: 10px!important;
-}
 
-.pb-30 {
-  padding-bottom: 30px!important;
-}
+.pb-10 { padding-bottom: 10px!important; }
+.pb-30 { padding-bottom: 30px!important; }
+.pt-30 { padding-top: 30px!important; }
 
-.pt-30 {
-  padding-top: 30px!important;
+.txt-dark {
+  color:#000 !important;
 }
 
 .case-study {
-  background-color: rgb(89, 56, 171); 
+  /* background-color: rgb(89, 56, 171);  */
+  /* background-image: linear-gradient(135deg,rgb(89, 56, 171),rgb(242, 241, 247)); */
+  background-image: linear-gradient(to bottom right, rgb(89, 56, 171), rgb(242, 241, 247));
+  background-image: linear-gradient(to bottom right, rgb(89, 56, 171), rgb(243, 125, 121));
+  background-image: linear-gradient(to bottom right, rgba(185, 158, 246, 1) 0.42%, rgb(241, 164, 162));
+
+  background-image: linear-gradient(to bottom right, rgba(60, 4, 188, 1) 0.42%, rgb(95, 64, 141));
+  background-image: linear-gradient(to bottom right, rgba(126, 69, 255, 1) 0.42%, rgb(122, 53, 225));
+  background-image: linear-gradient(92.88deg, rgb(69, 94, 181) 9.16%, rgb(86, 67, 204) 43.89%, rgb(103, 63, 215) 64.72%);
   /* box-shadow: rgba(89, 56, 171, 0.6) 0px 12px 90px;  */
   border-radius: 20px;
   padding: 3em;
@@ -911,6 +903,8 @@ a.button:hover {
 
 .case-study-white {
   background-color: #41BEA6; 
+  background-color: rgba(255,255,255,0.06);
+  background-image: linear-gradient(92.88deg, rgba(72, 69, 69, 0.06) 9.16%, rgb(59, 29, 212) 43.28%, rgb(19, 10, 34) 64.71%);
   /* box-shadow: rgba(1255, 255, 255, 0.6) 0px 12px 90px;  */
   border-radius: 20px;
   padding: 3em;
@@ -918,10 +912,26 @@ a.button:hover {
 
 .case-study-rose {
   background-color: rgb(25, 23, 36);
+  background-image: linear-gradient(92.88deg, rgb(119, 119, 119) 9.16%, rgb(122, 117, 150) 43.28%, rgb(144, 123, 180) 64.72%);
   /* box-shadow: rgba(209, 177, 255, 0.6) 0px 12px 90px; */
   border-radius: 20px;
   padding: 3em;
   color: rgb(224, 222, 244) !important;
+}
+
+.cs-heading {
+  padding-left: 24px;
+  border-left: 1px solid #850bc3;
+  margin-left: 10px;
+  margin-bottom: 0px !important;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.cs-body {
+  border-left: 1px solid #4b16a1;
+  padding-left: 24px;
+  margin-left: 10px;
 }
 
 .pl-50 {
@@ -946,6 +956,11 @@ a.button:hover {
 
 div[class*=" bg-dark"] h5 {
   color: rgb(141, 159, 167) !important;
+  color: rgb(84, 98, 100) !important;
+}
+
+.font-silk {
+  color: rgb(84, 98, 100) !important;
 }
 
 .text-dark {
@@ -954,7 +969,7 @@ div[class*=" bg-dark"] h5 {
   margin-right: 0px;
   /* margin-bottom: 20px; */
   /* max-width: 270px; */
-  color: #000;
+  color: #000 !important;
   font-size: 16px !important;
   line-height: 24px !important;
   font-weight: 500 !important;
@@ -995,4 +1010,17 @@ transition: background-size .2s ease-out;
 
 .fw900 {
   font-weight: 900!important;
+}
+
+.story-hl:before {
+  border-left-color: rgba(255,255,255,0.06);
+  content: '';
+position: absolute;
+z-index: initial;
+left: 0;
+border-width: 37.5rem;
+border-style: solid;
+/* border-color: transparent; */
+display: block;
+border-width: 46.875rem;
 }

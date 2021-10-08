@@ -173,3 +173,20 @@ i {
 .icon-sm {
 	i { font-size: 0.86em; } /* 13px */
 }
+
+.p-white, .p-dark {
+  line-height: 1.52;
+  margin-top: 0px;
+  margin-right: 0px;
+  font-size: 18px !important;
+  line-height: 24px !important;
+  font-weight: 600!important;
+	@include breakpoint-less(sm) {
+		font-size: 16px !important;
+	}
+}
+
+
+
+.p-white { color: #fff !important; }
+.p-dark { color: #000 !important; }
