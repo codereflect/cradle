@@ -979,10 +979,13 @@ div[class*=" bg-dark"] h5 {
   color: #fff!important;
 }
 
-.pl-24 { padding-left: 24px!important }
-.mb-20 { margin-bottom: 20px!important }
+.pl-24  { padding-left: 24px!important }
+.pb-3   { padding-bottom: 3px!important }
+.mb-10  { margin-bottom: 10px!important }
+.mb-20  { margin-bottom: 20px!important }
+.mb-30  { margin-bottom: 30px!important }
 .mt-140 { margin-top: 140px!important }
-.mt-80 { margin-top: 80px!important }
+.mt-80  { margin-top: 80px!important }
 
 .h2-head {
   font-size: 32px !important;
