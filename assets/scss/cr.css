@@ -1,8 +1,11 @@
 h1, h2, h3, h4, h5, h6  {
-  
   font-family: 'Inter', sans-serif; 
-
   color: rgb(217, 227, 234) !important;
+}
+
+::selection {
+  color: #5E6AD2;
+  background: #000;
 }
 
 body {
@@ -475,6 +478,10 @@ line-height: 32px;
 .text-gray {
   color:#ccc !important;
   color: #86868b !important;
+}
+
+.text-gray2 {
+  color: rgb(84, 98, 100) !important;
 }
 
 .text-cyan {
