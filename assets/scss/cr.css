@@ -1,5 +1,6 @@
 h1, h2, h3, h4, h5, h6  {
   font-family: 'Inter', sans-serif; 
+  /* font-family: 'IBM Plex Sans', sans-serif;  */
   color: rgb(217, 227, 234) !important;
 }
 
@@ -480,9 +481,11 @@ line-height: 32px;
   color: #86868b !important;
 }
 
-.text-gray2 {
+.text-gray2, .sm-p.text-gray2 {
   color: rgb(84, 98, 100) !important;
 }
+
+
 
 .text-cyan {
   color: #3cfffc !important;
@@ -875,6 +878,10 @@ a.button:hover {
 
 .txt-dark {
   color:#000 !important;
+}
+
+.case-study-outcomes .feature-box .feature-box-icon * {
+  line-height: 0px;
 }
 
 .case-study-narrow {
