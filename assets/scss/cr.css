@@ -989,6 +989,29 @@ div[class*=" bg-dark"] h5 {
 
 .accordion-content { background: #000;}
 
+.list-cr {
+
+}
+
+.list-cr li:before {
+  content: "\2014";
+  padding-right: 12px;
+  color: rgb(126, 118, 212);
+}
+
+.list-cr li {
+  display: block;
+  height: auto;
+  margin-left: 1em;
+  padding: 4px 0;
+  transition: opacity 1s ease-out;
+  line-height: 1.2;
+  text-indent: -1em;
+  cursor: default;
+  opacity: 1;
+}
+
+
 .pl-24  { padding-left: 24px!important }
 .pb-3   { padding-bottom: 3px!important }
 .mb-10  { margin-bottom: 10px!important }
