@@ -550,7 +550,6 @@ h1 span {
     height: 40px;
     max-height: 90px;
   }
-
   .header {
     max-height: 80px;
   }
@@ -560,7 +559,6 @@ h1 span {
     height: 50px;
     max-height: 90px;
   }
-
   .header {
     height: 90px;
     max-height: 90px;
@@ -684,8 +682,7 @@ h1 span {
   }
 }
 .slip {
-  width: 25em;
-  /* give it whatever width and height you like */
+  width: 25em; /* give it whatever width and height you like */
   height: 25em;
   /* make padding on right and bottom larger by adding the amount taken by
    * the "shadow"
@@ -747,7 +744,6 @@ h1 span {
     line-height: 32px;
     font-weight: 400;
   }
-
   .main-title {
     font-weight: 600;
     font-size: 36px;
